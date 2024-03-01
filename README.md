@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **johancacerez10@gmail.com**
 
-- 📄 Know about my experiences [Self-taught developer, with knowledge of the frontend side with modern technologies such as react, js, scss, tailwind and next.js](Self-taught developer, with knowledge of the frontend side with modern technologies such as react, js, scss, tailwind and next.js)
+- 📄 Know about my experiences [Self-taught developer, with knowledge of the frontend side with modern technologies such as react, js, scss, tailwind and next.js]
 
 - ⚡ Fun fact **I am a very curious person with constancy to continue learning every day**
 
