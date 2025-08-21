@@ -6,7 +6,8 @@
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en:  
   - **Aplicación de medición con sensor lineal** para una empresa integradora (cliente final BMW)  
-  - **Control de mantenimiento interno** para Bosch  
+  - **Control de mantenimiento interno** para Bosch
+  - **Aplicacion de control y manejo de finanzas persoanles**¨este proyecto es personal y lo uso para ir desarrollando tecnologias nuevas  
 - 🌱 Aprendiendo y profundizando en **desarrollo fullstack**, apps desktop y mobile, y arquitectura de software  
 - 💡 Mi pasión surgió al crear un **software de control de herramentales** para máquinas industriales, después de explorar áreas administrativas y mecánica automotriz  
 - ⚡ Dato curioso: **Siempre busco aprender algo nuevo cada día y resolver problemas complejos con código**
