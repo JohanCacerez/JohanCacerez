@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola 👋, soy Johan Cacerez!</h1>
+<h1 align="center">¡Hola, soy Johan Cacerez!</h1>
 <h3 align="center">Desarrollador Fullstack | Apps Desktop y Mobile | Apasionado por la arquitectura de software</h3>
 
 ---
