@@ -27,7 +27,7 @@
 
 ### 🛠️ Tecnologías y herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,scss,graphql,firebase,postgres,mongodb,express,nest,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,scss,graphql,firebase,postgres,mongodb,express,sqlite" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
